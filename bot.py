@@ -5,7 +5,7 @@ from mcstatus import JavaServer
 
 TOKEN = os.getenv("TOKEN")
 
-SERVER_IP = "YOUR_SERVER_IP"
+SERVER_IP = "eclipsesmp-v8RC.aternos.me"
 
 CHANNEL_ID = 123456789012345678
 
