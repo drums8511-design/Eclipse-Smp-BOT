@@ -7,7 +7,7 @@ TOKEN = os.getenv("TOKEN")
 
 SERVER_IP = "eclipsesmp-v8RC.aternos.me"
 
-CHANNEL_ID = 123456789012345678
+CHANNEL_ID = 1529602838181838995
 
 bot = discord.Client(
     intents=discord.Intents.default()
